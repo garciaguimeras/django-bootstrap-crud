@@ -2,3 +2,5 @@
 *.*~
 venv
 build
+dist
+django_bootstrap_crud.egg-info

@@ -4,7 +4,7 @@ from django.core.urlresolvers import reverse
 from django.shortcuts import redirect
 from django.utils.translation import ugettext as _
 
-from ruymossi.celldesigner import designer
+from bootstrap_crud.celldesigner import designer
 
 register = template.Library()
 
